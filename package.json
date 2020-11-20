@@ -1,6 +1,6 @@
 {
-  "homepage": "http://selfdevtv.github.io/trello-clone",
-  "name": "trello-clone",
+  "homepage": "/",
+  "name": "trello-retest",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
